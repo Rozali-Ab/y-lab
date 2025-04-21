@@ -20,4 +20,4 @@ https://github.com/ylabio/react-webinar-3/pull/309
 
 ##ДЗ 5 
 https://github.com/ylabio/react-webinar-3/pull/347  
-[deploy](https://react-webinar-3-aah2z5w3p-boos-projects-fb6c6a9e.vercel.app/)
+[deploy](https://react-webinar-3-35th0mzt1-boos-projects-fb6c6a9e.vercel.app/articles/67fb67e98702ec3fc67fef7c)
